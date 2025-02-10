@@ -1,0 +1,4 @@
+secrets.txt
+
+#The pound sign allows you to comment in a gitignore file
+#If I were to add -> *.txt <- to the gitignore file then all files with a .txt extension would be ignored
